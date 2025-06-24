@@ -100,7 +100,7 @@ Ver diferencias básicas con un ejemplo simple.
 **En AMBAS instancias**, usar exactamente este prompt:
 
 ```
-Añadir campo email a la tabla Customer con validación
+Crear una extensión AL para añadir campo "Manager Code" a la tabla Customer
 ```
 
 ### Qué Hacer
@@ -146,7 +146,7 @@ Crear una tabla de productos con:
 **En AMBAS instancias**, usar este prompt exacto:
 
 ```
-Crear una tabla de productos para Business Central con campos básicos y validaciones
+Crear tabla AL para gestionar "Customer Loyalty Cards"
 ```
 
 ### Instrucciones de Desarrollo
