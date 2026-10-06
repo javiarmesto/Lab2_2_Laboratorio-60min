@@ -1,4 +1,13 @@
 # Laboratorio: GitHub Copilot con Instrucciones Personalizadas en AL
+
+## Edición y preparación
+
+Material histórico de aula para comparar dos proyectos generados con y sin instrucciones. La referencia `application: 22.0.0.0` del manifiesto incluido es parte del ejemplo; no demuestra compatibilidad con tu sandbox ni se ha actualizado automáticamente.
+
+Necesitas VS Code con AL Language, GitHub Copilot y un sandbox. Crea dos proyectos separados con **AL: Go!**, configura `launch.json` y descarga los símbolos de tu entorno. El GUID del ejemplo debe ser único por app si vas a instalar ambas; selecciona también rangos que no colisionen. Aplica las instrucciones solo al proyecto B.
+
+[Guía PDF del estudiante](laboratorio-estudiantes-60min.pdf) · [Tabla de evaluación](Tabla%20de%20Evaluación.pdf). El repo contiene documentación y PDFs, no una solución AL precompilada. El resultado esperado es el código de ambas variantes y su comparación, acompañada de las comprobaciones que realmente hayas realizado. Revisión estática del 6 de octubre de 2026; no se ha ejecutado el laboratorio.
+
 **Guía del Estudiante - 60 minutos**
 
 ## 📋 Información General
